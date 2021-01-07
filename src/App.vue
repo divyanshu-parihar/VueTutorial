@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 in CodeSandbox!" />
+  <HelloWorld msg="Hello Vue 3 in divyanshu parihar!" />
 </template>
 
 <script>
@@ -8,7 +8,7 @@ import HelloWorldVue from "./components/HelloWorld.vue";
 export default {
   name: "App",
   components: {
-    HelloWorld: HelloWorldVue,
+    HelloWorld : HelloWorldVue,
   },
 };
 </script>
